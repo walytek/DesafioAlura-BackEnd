@@ -1,1 +1,5 @@
 # DesafioAlura-BackEnd
+Utilicé en el desarrollo de este proyecto los cuadros de diálogo del método JOption.
+Los datos con los que se construyeron las variables fueron calculadas en base a un promedio (de acuerdo a la cotizacion oficial de las monedas)
+Los datos del segundo conversor fueron tomados de páginas científicas y son tambien aproximados, tomando el tiempo que tarda cada planeta en dar una vuelta alrededor al Sol.
+walterhoraciocoria67@gmail.com
